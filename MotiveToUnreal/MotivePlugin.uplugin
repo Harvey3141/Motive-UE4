@@ -1,0 +1,19 @@
+{
+	"FileVersion": 1,
+	"FriendlyName": "MotivePlugin",
+	"Version": 1,
+	"VersionName": "1.0",
+	"CreatedBy": "Harvey Buchan",
+	"CreatedByURL": "https://github.com/Harvey3141",
+	"Category": "Motive",
+	"Description": "Motive data reciever",
+	"EnabledByDefault": false,
+	"Modules": [
+		{
+			"Name": "MotivePlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"CanContainContent" : "true"
+}
